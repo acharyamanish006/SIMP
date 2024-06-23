@@ -1,0 +1,20 @@
+{
+  "name": "@acharyamanish/simp",
+  "type": "module",
+  "version": "0.1.1",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AcharyaManish",
+  "license": "ISC",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acharyamanish006/SIMP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/acharyamanish006/SIMP/issues"
+  },
+  "homepage": "https://github.com/acharyamanish006/SIMP#readme"
+}
