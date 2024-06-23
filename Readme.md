@@ -1,5 +1,5 @@
 # Simp (SImple Mathematical Interpreter)
-#       SI     M                 P
+# ______SI_____M_________________P
 
 ## Overview
 
