@@ -1,9 +1,9 @@
 # Simp (SImple Mathematical Interpreter)
-# ______SI_____M_________________P
+##      SI     M                 P
 
 ## Overview
 
-**Simp** is a simple mathematical expression evaluator written in JavaScript. It supports basic arithmetic operations including addition, subtraction, multiplication, and division. The lexer parses the input expression into tokens, and the parser evaluates the expression respecting the correct order of operations.
+**Simp** is a simple mathematical Interpreter written in JavaScript. It supports basic arithmetic operations including addition, subtraction, multiplication, and division. The lexer parses the input expression into tokens, and the parser evaluates the expression respecting the correct order of operations.
 
 ## Table of Contents
 
