@@ -8,13 +8,7 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Code Explanation](#code-explanation)
-  - [Token Class](#token-class)
-  - [Parser Class](#parser-class)
-  - [Simp Class](#simp-class)
 - [Example](#example)
-- [License](#license)
 
 ## Installation
 
@@ -29,5 +23,5 @@ npm install @acharyamanish/simp
 ```bash
 import Simp from "@acharyamanish/simp";
 
-const simp = new Simp("10 + 2 * 6 - 3 / 1.5");
-console.log(simp.run()); // Output: 21
+const simp = new Simp("10 + 2 * 6 - 25/5");
+console.log(simp.run()); // Output: 17
